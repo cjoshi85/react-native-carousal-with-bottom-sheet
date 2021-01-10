@@ -1,0 +1,12 @@
+{
+  "name": "carousal-with-bottom-sheet",
+  "displayName": "carousal-with-bottom-sheet",
+  "expo": {
+    "name": "carousal-with-bottom-sheet",
+    "slug": "carousal-with-bottom-sheet",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
